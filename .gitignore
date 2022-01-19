@@ -1,0 +1,8 @@
+
+__pycache__
+
+# virtualenv for cutoff-optimization
+lroptv
+
+# Data
+Classification_proportions_in_GroundTruth_v2.xlsx
