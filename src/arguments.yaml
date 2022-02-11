@@ -1,0 +1,39 @@
+
+myod1:
+  weight: './model_weights/myod1/'
+  image: './images/myod1/'
+  cancer_maps: './images/cancer_maps/'
+  results: './results/myod1/'
+  image_size: 224
+  num_classes: 2
+
+tp53:
+  weight: './model_weights/tp53/'
+  image: './images/tp53/'
+  cancer_maps: './images/cancer_maps/'
+  results: './results/tp53/'
+  image_size: 384
+  num_classes: 2
+
+subtype:
+  weight: './model_weights/subtype/'
+  image: './images/subtype/'
+  results: './results/subtype/'
+  image_size: 240
+  num_classes: 3
+
+segment:
+  weight: './model_weights/segment/'
+  image: './images/segment/'
+  results: './results/segment/'
+  image_size: 384
+  num_classes: 5
+ 
+survival:
+  weight1: './model_weights/survival/model1/'
+  weight2: './model_weights/survival/model2/'
+  image: './images/survival/'
+  cancer_maps: './images/cancer_maps/'
+  results: './results/survival/'
+  image_size: 224
+  num_classes: 1
