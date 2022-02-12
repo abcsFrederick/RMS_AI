@@ -3,8 +3,8 @@ Github page for Predicting survival of rhabdomyosarcoma patients based on deep-l
 
 ## Set Up Environment
 Two different conda environments are required
-- `rms1`: Running 'subtype', 'myod1' and 'tp53' tasks
-- `rms2`: Running 'segment' and 'sursvival' tasks
+- `rms1`: 'subtype', 'myod1' and 'tp53' tasks
+- `rms2`: 'segment' and 'survival' tasks
 
 
 ```
@@ -25,6 +25,7 @@ Below are the src subdirectories in the repository:
 
 - `src/results/`: output files are stored at different subdirectories
 - `src/images/`: each subdirectory contains image files (svs, tif or png) to be inferenced
+- `src/images/cancer_maps/`: contains greyscale images where cancerous regions are defined
 - `src/model_weights/`: trained model weights are located at different subdirectories
 
 Below are the main python files in the repository:
