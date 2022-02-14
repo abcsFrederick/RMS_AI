@@ -35,3 +35,4 @@ Below are the main python files in the repository:
 - `src/tp53_inference.py`: TP53 mutation detection
 - `src/myod1_inference.py`: MYOD1 mutation detection
 - `src/survival_inference1.py and src/survival_inference2.py`: Risk prediction
+- `src/ras_inference.py`: RAS mutation detection
