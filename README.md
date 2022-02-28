@@ -36,3 +36,10 @@ Below are the main python files in the repository:
 - `src/myod1_inference.py`: MYOD1 mutation detection
 - `src/survival_inference1.py and src/survival_inference2.py`: Risk prediction
 - `src/ras_inference.py`: RAS mutation detection
+
+## Model weights
+
+Trained model weights can be found using the link below
+https://figshare.com/articles/software/segment_fold01/19182074
+
+Please unzip the downloaded file and place the folder under the 'src' directory
