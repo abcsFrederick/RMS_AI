@@ -40,6 +40,7 @@ Below are the main python files in the repository:
 ## Model weights
 
 Trained model weights can be found using the link below
-https://figshare.com/articles/software/segment_fold01/19182074
+
+- https://figshare.com/articles/software/segment_fold01/19182074
 
 Please unzip the downloaded file and place the folder under the 'src' directory
